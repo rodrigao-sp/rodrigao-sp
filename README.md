@@ -1,13 +1,6 @@
 
 > Status: Developing ⚠️
 
-
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World!</h1></summary>
-</div>
-
 <!-- Presentation -->
 <p>
   Hi 👋, I'm Rodrigo! A passionate Full stack python student from Brazil.
@@ -17,29 +10,18 @@
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
 </p>
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
-
-  - 💬 I am 30 years old, currently living in Brazil. I have fluency in SQL, Python, Data Analysis, Data visualization, and Machine Learning. Creativity, communication, marketing, analytical capability, community.
-
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
-</details>
-
 <!-- Links -->
 
 <!-- GithubStats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigao-sp&show_icons=true&theme=tokyonight)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rodrigao-sp&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigao-sp&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
 <!-- Portfolio -->
-## Portfolio:
 
 <!-- GIF -->
-<p align="left">
-  <img align="center" src="" alt="Imagem">
-</p>
 
-## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
