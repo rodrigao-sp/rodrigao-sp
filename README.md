@@ -1,10 +1,10 @@
 
 <!-- Presentation -->
-  👋, I'm Rodrigo! A passionate Full stack python student from Brazil.
-  
-  - 🌱 I’m currently studying Full stack by Ebac
+👋, I'm Rodrigo! A passionate Full Stack Python student from Brazil.
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with software development and automation in Python. 
+- 🌱 Currently, I'm studying Full Stack at Ebac.
+
+- 🔭 I'm searching for my first job opportunity. My dream is to work with software development and automation in Python someday.
 
 <!-- GithubStats -->
 <div>  
