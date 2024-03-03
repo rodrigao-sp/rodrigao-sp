@@ -1,14 +1,14 @@
 
 > Status: Developing ⚠️
 
-<!-- Presentation -->
-<p>
-  Hi 👋, I'm Rodrigo! A passionate Full stack python student from Brazil.
+<!-- Dropdown -->
+<details>
+  <summary>👋, I'm Rodrigo! A passionate Full stack python student from Brazil.</summary>
 
   - 🌱 I’m currently studying Full stack by Ebac
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with software development and automation in Python. 
-</p>
+</details>
 
 <!-- Links -->
 
