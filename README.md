@@ -13,7 +13,11 @@
 </div>
 
 <!-- Snake -->
-  <img src="https://github.com/rodrigao-sp/rodrigao-sp/blob/output/github-contribution-grid-snake.svg" width="1000">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rodrigao-sp/rodrigao-sp/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rodrigao-sp/rodrigao-sp/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rodrigao-sp/rodrigao-sp/output/github-contribution-grid-snake.svg" width="1000">
+</picture>
 
 ---
 
