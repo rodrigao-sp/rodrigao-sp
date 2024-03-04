@@ -6,14 +6,15 @@
 
 - 🔭 I'm searching for my first job opportunity. My dream is to work with software development and automation in Python someday.
 
-<!-- Snake -->
-![snake gif](https://github.com/rodrigao-sp/rodrigao-sp/blob/output/github-contribution-grid-snake.svg)
-
-
 <!-- GithubStats -->
 <div>  
   <img src="https://github-readme-stats.vercel.app/api?username=rodrigao-sp&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigao-sp&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+<!-- Snake -->
+<div style="background-color: black; display: inline-block;">
+    <img src="https://github.com/rodrigao-sp/rodrigao-sp/blob/output/github-contribution-grid-snake.svg" width="1000">
 </div>
 
 ---
