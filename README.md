@@ -13,9 +13,7 @@
 </div>
 
 <!-- Snake -->
-<div style="background-color: black; display: inline-block;">
-    <img src="https://github.com/rodrigao-sp/rodrigao-sp/blob/output/github-contribution-grid-snake.svg" width="1000">
-</div>
+  <img src="https://github.com/rodrigao-sp/rodrigao-sp/blob/output/github-contribution-grid-snake.svg" width="1000">
 
 ---
 
