@@ -7,7 +7,8 @@
 - 🔭 I'm searching for my first job opportunity. My dream is to work with software development and automation in Python someday.
 
 <!-- Snake -->
-![snake gif](https://github.com/rodrigao-sp/rodrigao-sp/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/rodrigao-sp/rodrigao-sp/blob/output/github-contribution-grid-snake.svg)
+
 
 <!-- GithubStats -->
 <div>  
