@@ -22,7 +22,7 @@
 ---
 
 <!-- Portfolio -->
-#Portfolio
+<h3>Portfolio</h3>
 > Status: Developing
 
 ---
