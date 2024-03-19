@@ -7,7 +7,7 @@
 - 🔭 I'm searching for my first job opportunity. My dream is to work with software development and automation in Python someday.
 
 <!-- GithubStats -->
-<!--div>  
+<div>  
   <img src="https://github-readme-stats.vercel.app/api?username=rodrigao-sp&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigao-sp&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
