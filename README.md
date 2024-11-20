@@ -78,4 +78,4 @@ Fique à vontade para explorar meus repositórios e conhecer meus projetos!
 ---
 
 **📫 Vamos conectar?**  
-Sinta-se à vontade para entrar em contato pelo [LinkedIn](https://www.linkedin.com/in/seu-perfil) ou enviar um e-mail para rodrigao@example.com.
+Sinta-se à vontade para entrar em contato pelo [LinkedIn](https://www.linkedin.com/) ou enviar um e-mail para rodrigodasilvapires@gmail.com.
