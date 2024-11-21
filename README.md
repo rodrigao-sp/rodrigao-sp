@@ -70,9 +70,8 @@ Sou entusiasta de IA, com conhecimentos sólidos em:
 
 ---
 
-## 🚀 **Portfólio**  
-**Status:** Em desenvolvimento.  
-
+## 🚀 **Portfólio**
+https://rodrigao-sp.github.io/portfolio
 Fique à vontade para explorar meus repositórios e conhecer meus projetos!
 
 ---
