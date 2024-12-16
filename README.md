@@ -1,10 +1,10 @@
 # 👋 Olá! Eu sou o Rodrigo
 
-Sou um desenvolvedor Full Stack em formação, apaixonado por tecnologia, inovação e automação. Tenho experiência tanto com **códigos** quanto com ferramentas **no-code**, o que me permite abordar projetos com uma visão ampla e moderna. Além disso, possuo **amplo conhecimento em Inteligência Artificial (IA)**, aplicando soluções avançadas em automação, chatbots e criações web. Estou constantemente me atualizando com as melhores práticas e tecnologias do mercado.
+Sou um desenvolvedor Full Stack em formação, apaixonado por tecnologia, inovação e automação. Tenho experiência tanto com **códigos** quanto com ferramentas **no-code** e **low-code**, o que me permite abordar projetos com uma visão ampla e moderna. Além disso, possuo **amplo conhecimento em Inteligência Artificial (IA)**, aplicando soluções avançadas em automação, chatbots e criações web. Estou constantemente me atualizando com as melhores práticas e tecnologias do mercado.
 
 - 🌱 Atualmente estudando **Full Stack Python** pela EBAC.  
 - 💼 Em busca da minha **primeira oportunidade de trabalho** na área de tecnologia.  
-- 🎯 Meu objetivo é atuar em **desenvolvimento de software, websites**, **IA** e **automações** utilizando Python.  
+- 🎯 Meu objetivo é atuar em **desenvolvimento de software, websites**, **IA** e **automações** utilizando **Python** e **TypeScript**.  
 
 ---
 
@@ -24,6 +24,7 @@ Sou um desenvolvedor Full Stack em formação, apaixonado por tecnologia, inova�
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
@@ -71,7 +72,7 @@ Sou entusiasta de IA, com conhecimentos sólidos em:
 ---
 
 ## 🚀 **Portfólio**
-https://rodrigao-sp.github.io/portfolio
+https://rodrigao-sp.github.io/portfolio  
 Fique à vontade para explorar meus repositórios e conhecer meus projetos!
 
 ---
