@@ -8,6 +8,17 @@ Sou um desenvolvedor Full Stack em formação, apaixonado por tecnologia, inova�
 
 ---
 
+## 🚀 **Portfólio**
+https://rodrigao-sp.github.io/portfolio  
+Fique à vontade para explorar meus repositórios e conhecer meus projetos!
+
+---
+
+**📫 Vamos conectar?**  
+Sinta-se à vontade para entrar em contato pelo [LinkedIn](https://www.linkedin.com/in/rodrigo-da-silva-pires-a5223b25b) ou enviar um e-mail para rodrigodasilvapires@gmail.com.
+
+---
+
 ## 🌟 **Estatísticas no GitHub**
 
 <div>  
@@ -70,12 +81,3 @@ Sou entusiasta de IA, com conhecimentos sólidos em:
 </picture>
 
 ---
-
-## 🚀 **Portfólio**
-https://rodrigao-sp.github.io/portfolio  
-Fique à vontade para explorar meus repositórios e conhecer meus projetos!
-
----
-
-**📫 Vamos conectar?**  
-Sinta-se à vontade para entrar em contato pelo [LinkedIn](https://www.linkedin.com/in/rodrigo-da-silva-pires-a5223b25b) ou enviar um e-mail para rodrigodasilvapires@gmail.com.
